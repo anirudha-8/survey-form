@@ -51,7 +51,7 @@ To view and interact with the Survey Form project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone --recurse-submodules <main-repo-url>
+   git clone https://github.com/anirudha-8/survey-form.git
    ```
 
 2. **Navigate to the Project Folder**:
